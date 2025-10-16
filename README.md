@@ -1,5 +1,6 @@
 ## MATLAB로 벡터 행렬화 사용해 신경망 Forward Propagation 구현
-<img width="933" height="647" alt="다운로드" src="https://github.com/user-attachments/assets/302c78a0-452c-406c-9c63-340ad1f2564b" />
+<img width="754" height="497" alt="image" src="https://github.com/user-attachments/assets/3e21b202-bbdf-4de6-b874-ae82289f1770" />
+
 
 ## 개요
 입력 벡터 `x`에 대해 3층(은닉2, 출력1) **전방 전파**를 MATLAB 행렬 연산으로 구현했습니다.  
